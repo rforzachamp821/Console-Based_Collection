@@ -1,0 +1,24 @@
+﻿  TerminalAppGen2.cpp
+X:\OneDrive\Programming\C++\VisualStudio\TerminalAppGen2\TerminalAppGen2\TerminalAppGen2.cpp(114,14): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+X:\OneDrive\Programming\C++\VisualStudio\TerminalAppGen2\TerminalAppGen2\TerminalAppGen2.cpp(152,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+X:\OneDrive\Programming\C++\VisualStudio\TerminalAppGen2\TerminalAppGen2\TerminalAppGen2.cpp(433,24): warning C4244: 'initializing': conversion from 'long double' to '__int64', possible loss of data
+X:\OneDrive\Programming\C++\VisualStudio\TerminalAppGen2\TerminalAppGen2\TerminalAppGen2.cpp(461,12): warning C4244: '=': conversion from 'long double' to '__int64', possible loss of data
+X:\OneDrive\Programming\C++\VisualStudio\TerminalAppGen2\TerminalAppGen2\TerminalAppGen2.cpp(487,13): warning C4244: '=': conversion from 'long double' to 'short', possible loss of data
+X:\OneDrive\Programming\C++\VisualStudio\TerminalAppGen2\TerminalAppGen2\TerminalAppGen2.cpp(507,7): warning C4215: nonstandard extension used: long float
+X:\OneDrive\Programming\C++\VisualStudio\TerminalAppGen2\TerminalAppGen2\TerminalAppGen2.cpp(507,37): warning C4215: nonstandard extension used: long float
+X:\OneDrive\Programming\C++\VisualStudio\TerminalAppGen2\TerminalAppGen2\TerminalAppGen2.cpp(509,7): warning C4215: nonstandard extension used: long float
+X:\OneDrive\Programming\C++\VisualStudio\TerminalAppGen2\TerminalAppGen2\TerminalAppGen2.cpp(510,7): warning C4215: nonstandard extension used: long float
+X:\OneDrive\Programming\C++\VisualStudio\TerminalAppGen2\TerminalAppGen2\TerminalAppGen2.cpp(600,13): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+X:\OneDrive\Programming\C++\VisualStudio\TerminalAppGen2\TerminalAppGen2\TerminalAppGen2.cpp(623,15): warning C4244: '=': conversion from 'long double' to '__int64', possible loss of data
+X:\OneDrive\Programming\C++\VisualStudio\TerminalAppGen2\TerminalAppGen2\TerminalAppGen2.cpp(1776,15): warning C4244: 'argument': conversion from '__int64' to 'DWORD', possible loss of data
+X:\OneDrive\Programming\C++\VisualStudio\TerminalAppGen2\TerminalAppGen2\TerminalAppGen2.cpp(1776,8): warning C4244: 'argument': conversion from '__int64' to 'DWORD', possible loss of data
+X:\OneDrive\Programming\C++\VisualStudio\TerminalAppGen2\TerminalAppGen2\TerminalAppGen2.cpp(2004,16): warning C4129: '_': unrecognized character escape sequence
+X:\OneDrive\Programming\C++\VisualStudio\TerminalAppGen2\TerminalAppGen2\TerminalAppGen2.cpp(2005,16): warning C4129: ' ': unrecognized character escape sequence
+X:\OneDrive\Programming\C++\VisualStudio\TerminalAppGen2\TerminalAppGen2\TerminalAppGen2.cpp(2026,16): warning C4129: '_': unrecognized character escape sequence
+X:\OneDrive\Programming\C++\VisualStudio\TerminalAppGen2\TerminalAppGen2\TerminalAppGen2.cpp(2027,16): warning C4129: ' ': unrecognized character escape sequence
+  Generating code
+  1 of 659 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    4 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  TerminalAppGen2.vcxproj -> X:\OneDrive\Programming\C++\VisualStudio\TerminalAppGen2\TerminalAppGen2\x64\Release\TerminalAppGen2.exe

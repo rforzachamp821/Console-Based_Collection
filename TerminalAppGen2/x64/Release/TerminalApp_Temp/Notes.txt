@@ -1,0 +1,9 @@
+The quick brown fox jumped over the lazy dog.
+900
+lines of code
+before
+now
+2000
+lines of code.
+Isn't
+that crazy?
