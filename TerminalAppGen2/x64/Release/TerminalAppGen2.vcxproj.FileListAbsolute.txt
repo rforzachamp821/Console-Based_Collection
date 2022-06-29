@@ -1,2 +1,0 @@
-C:\Users\ryanz\OneDrive\Programming\C++\VisualStudio\TerminalAppGen2\TerminalAppGen2\x64\Release\TerminalAppGen2.exe
-X:\OneDrive\Programming\C++\VisualStudio\TerminalAppGen2\TerminalAppGen2\x64\Release\TerminalAppGen2.exe
