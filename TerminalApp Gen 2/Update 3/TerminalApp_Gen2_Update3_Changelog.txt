@@ -1,0 +1,11 @@
+Alright guys, TerminalApp Gen 2 Update 3 has been released! This is my biggest update so far, and here are the improvements:
+
+- 8 new commands added
+- 2 more games added
+- MASSIVE fixes on many buffer overflow issues in the terminal
+- More colours have been added
+- The echo command has been fixed
+- 3 out of 4 games now have high score systems working
+- Bugs that caused commands to repeat over and over were fixed
+
+Let's just say, i'm excited for feedback!

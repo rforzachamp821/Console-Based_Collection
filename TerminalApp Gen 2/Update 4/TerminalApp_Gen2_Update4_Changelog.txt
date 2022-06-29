@@ -1,0 +1,38 @@
+___TerminalApp Gen 2 Update 4 Bugfixes and New Features___
+
+Also welcome an easter egg! Hint: An event began 1 day after the release of this update (1st May 2022).
+
+New Features:
+- 6 new commands, which are: calculator, converter, mario, ansireset, webopen and randnum.
+- Now keeps all terminal files in a folder to keep space uncluttered.
+- Ansi command improved.
+- Echo and Colour commands can now have their options typed without pressing Enter (If you only type the name of the
+  command, it'll still work as normal).
+- Reduced amount of text in some areas so you don't have to read so much, also makes the terminal easier to use.
+- yes/no confirmation whenever you're starting the tutorial from the terminal has been placed, as people accidentally 
+  type the command number in (which is 1).
+- For distinguision between coltxt and colourtxt, the name of the coltxt command  was changed to just 'colour'.
+- Ansi now allows colour codes to replace all other colours until you reset the ansi colours.
+- Increased slow character outputting speed by 5ms because people wanted it to be faster.
+- Changed the army car design in the Car Dodge- Hard game because the old one just looked ugly.
+
+
+Bugfixes:
+- Fixed buffer overflow issues in some areas of the terminal.
+- Fixed a bug with ansi not saving your text colour codes.
+- Fixed a bug where the easy car game would not save your score.
+- Fixed bugs in the car and guess games where colours would not work properly sometimes.
+- Fixed a few terminal colour issues.
+- Fixed a bug where the notesay command would not read out notes set with the note command, and instead post an error.
+- Fixed bugs with the textinfo command where it would not post the correct number of letters and words in a string.
+- Fixed an issue where any key pressed when characters are being outputted slowly would affect the next input opportunity.
+- Fixed many problems in the tutorial, such as colours being reset to default after the tutorial.
+- Revamped some old code in the program so bugs that I may have not found might have gotten fixed.
+
+
+Known Issues:
+NOTE: Keep in mind that these are issues that may never be fixed.
+
+- The colour command can just easily be activated by typing 'colour' in the start of any command. This most likely won't
+  get fixed due to its unimportance.
+- Same thing for the echo command as above.
