@@ -1,4 +1,4 @@
-Alright guys, TerminalApp Gen 2 Update 3 has been released! This is my biggest update so far, and here are the improvements:
+Alright guys, TerminalApp Gen 2 Update 3 has been released! Here are the improvements:
 
 - 8 new commands added
 - 2 more games added
@@ -8,4 +8,4 @@ Alright guys, TerminalApp Gen 2 Update 3 has been released! This is my biggest u
 - 3 out of 4 games now have high score systems working
 - Bugs that caused commands to repeat over and over were fixed
 
-Let's just say, i'm excited for feedback!
+Let's just say, i'm happy with what's been done to this program!
