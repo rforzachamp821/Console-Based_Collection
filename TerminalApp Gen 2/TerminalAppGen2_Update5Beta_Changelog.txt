@@ -1,0 +1,19 @@
+TerminalApp Gen 2 - Update 5: Beta - Changelog
+_________________________________________________________________________________________
+This time around, I tried adding a small beta testing release to see if I missed any bugs.
+
+__Features and Changes__
+- New commands have been added, which are: commandnum, cry, stopwatch, filemode, pause, nodisp, disp
+- A new GAME has been added, and it's called Snap Game! It's inspired by a game called Snap which I used to play when I was a little kid.
+- The About command has been unlocked and can now be used/explored.
+- Added a new feature called FileParse, where you can argument a file with the program and let TerminalApp run off it (like scripting). It's currently in beta, please give feedback about it if possible.
+- Removed the initial randnum command and placed it under the calculator command because it makes sense there.
+- Added some colour to serveral commands, such as the Einstein command.
+- Changed the wording in some commands to make them easier to understand.
+- Added skill levels to both car games, that judge your score skill level - They come in: Below Average, Average, Insane, G.O.A.T Level and GOD level.
+- Cleaned up some source code and unnecessary functions that I forgot to remove a long time ago.
+
+__Bugfixes__
+- Fixed the prev command not showing any capital letters.
+- Fixed a problem with the colour command sometimes not registering when executed the first time.
+- Fixed an issue where the colour was sometimes changing randomly after input.
