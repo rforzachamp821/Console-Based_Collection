@@ -1,0 +1,26 @@
+TerminalApp Gen 2 - Update 5 - Changelog
+_________________________________________________________________________________________
+
+__Features and Changes__
+- 12 NEW commands have been added, which are: commandnum, cry, stopwatch, filemode, pause, nodisp, disp, progopen, ramtemp, saytemp, wisecow, and hacker.
+- A new GAME has been added, and it's called Snap Game! It's inspired by a game called Snap which I used to play when I was a little kid.
+- The About command has been unlocked and can now be used/explored.
+- Added a new feature called FileParse, where you can argument a file with the program and let TerminalApp run off it (like scripting). It's rather complex, please give feedback about it if possible.
+- Removed the initial randnum command and placed it under the calculator command because it makes sense there.
+- Added some colour to serveral commands, such as the Einstein command.
+- Changed the wording in some commands to make them easier to understand.
+- Added skill levels to both car games, that judge your score skill level - They come in: Below Average, Average, Insane, G.O.A.T Level and GOD level.
+- Car Dodge Easy has a new car from the Hard level, which is the F1 car!
+- Car Dodge Hard has a new car from the Easy level too, which is the Rocket Car!
+- Cleaned up some source code and unnecessary functions that I forgot to remove a long time ago.
+
+__Bugfixes__
+- Fixed a problem with the colour command sometimes not registering when executed the first time.
+- Fixed an issue where the colour was sometimes changing randomly after input.
+- Fixed an issue where the Prev command didn't show capital letters for previous command input. Same goes for the output of when you failed to input a proper command.
+- Fixed many issues with the FileParse feature from the Beta build of Update 5, such as commands getting skipped and the program thinking you're using a file when you aren't. Thanks all!
+- Fixed a problem where some functions were biased in terms of random number choosing and caused issues with repeated numbers.
+- Increased time accuracy of the stopwatch command (not quite fully there yet but getting there)
+- Fixed a few commands not outputting a newline when they are done being executed.
+- Fixed an issue with the ANSI command where colours were basically eradicated when you save your changes and you haven't modified anything.
+- Made a few fixes in the Snap Game, and added a few things too.
