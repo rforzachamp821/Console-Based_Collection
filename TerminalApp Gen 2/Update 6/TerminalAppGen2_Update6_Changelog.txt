@@ -1,0 +1,39 @@
+TerminalApp Gen 2 - Update 6 - Changelog
+________________________________________________________________________________________________________________________
+This new update introduces TONS of modifications and improvements to the program's engine to improve performance, and
+includes many new features, commands, and bugfixes, to keep your time using TerminalAppGen2 flawless and fun.
+
+__New Features__
+- Added 8 NEW COMMANDS which are: UpdateConfigIn, UpdateConfigOut, DispConfig, DispConfigFile, CreateConfig, CPUBench, ReverseText and Settings.
+- Relating to the new Settings command, there are now 3 new settings that can be customised and adjusted inside the TerminalAppGen2!
+- Added some extra colour to a few commands that should've had them.
+- Added a timer whenever a player snaps someone in Snap Game. The snapping player has to type something in fast to get the deck cards.
+- Added a few extra words to some commands to make them easier to understand when navigating through the terminal using command numbers.
+- Added a class-based system for high scores and settings so code could look neater and more efficient (please file feedback if issues were found with high scores/settings).
+- This update also introduces a new configuration file way of saving game scores and settings! Instead of using several files for several values, all contents are placed in one singular configuration file. Please file any feedback if there are issues with high scores not saving or being overwritten.
+- DRASTICALLY improved time accuracy of the stopwatch command. It now used std functions and measures in ten-thousandth of a second accuracy.
+- Added an option to see the program's MIT licence in the built-in 'About' command to prevent confusion.
+- Added verbosity messages, with a toggle to turn them on or off in the new Settings command
+- Added a new icon for TerminalAppGen2 (it's not shipped in the source code, just included in the executable itself)
+- Source code neatness improvements
+
+__Bugfixes__
+- Fixed an issue where typing anything on the starting screen of TerminalAppGen2 other than the Enter key would glitch out the command input.
+- Fixed an issue where your high score wouldn't be saved when you exit from any match in the Car Dodge pause menu.
+- Fixed a couple of issues where some commands such as Sleep and Beep wouldn't exit when inputting a character (by removing the exit from character option; the issue was by design)
+- Fixed an issue where the shutdown command would print out random text instead of shutting down.
+- Fixed many issues with commands displaying incorrect colour.
+- Fixed a few issues with the Snap Game, such as allowing the name 'Computer' to be used in Player 2.
+- Fixed an issue where accessing the Ratio Calculator in the calculator command would cause the whole terminal to behave wierdly.
+- Fixed issues with modules, commands and calculators/converters not working right when using the custom-made num() function.
+- Fixed an issue with the Denary to Binary calculator where inputting a negative number would still cause it to continue operating without asking to re-input, causing issues.
+- Fixed negative numbers causing issues in a small number of commands such as Hacker.
+- Fixed a few spelling/typing mistakes throughout the terminal.
+- Fixed issues with the Celsius to Fahrenheit and Fahrenheit to Celsius converters not giving the right conversion answer.
+- Fixed random enemy car placements in the CarDodge games not being as random as intended.
+- Fixed the 'hacker' command displaying 2 prompts for entering a command when exited, rather than only the normal 1 prompt.
+- Fixed an issue where the progopen command would fail to open Microsoft Edge when prompted to, and instead give an error.
+- Fixed issues with dividing by 0 and stability issues with the simplecalc command (by rewriting many parts of it).
+
+__Known Issues__
+- There still seems to be an issue with FileParse repeating the wrong lines in some cases. This may be fixed soon.
