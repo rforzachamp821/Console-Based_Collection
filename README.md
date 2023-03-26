@@ -13,4 +13,4 @@ You can always give me feedback as well, just so I know how to improve.
 Thanks for visiting! :)
 
 # Note
-Please note that this repository is basically an archive. If you would like to see new releases of my most popular programs, such as TerminalAppGen2, please visit their respective repository as this archive isn't usually maintained regularly. You can find them on my profile.
+Please note that this repository is basically a semi-archive. If you would like to see new releases of my most popular programs, such as TerminalAppGen2, please visit their respective repository as this archive isn't usually maintained regularly. You can find them on my profile.
